@@ -1,16 +1,33 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Karol!
+🎓 Computer Science student at Univeristy of Gdańsk (PL), aspiring Full-stack developer.
 
-<!--
-**Karol-Wisniewski/Karol-Wisniewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+### ⚡ Main skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌐 Frontend:
+
+- JavaScript
+- React
+- HTML
+- SCSS
+
+🔰 Backend:
+
+- Node.js
+- Express
+- Flask
+- MongoDB
+- Neo4J
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ⚡ Others
+
+- Scala
+- Python
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 📫 How to reach me
+
+- E-mail: karol-wisniewski2001@wp.pl
