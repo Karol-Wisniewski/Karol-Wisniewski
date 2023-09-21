@@ -8,7 +8,7 @@
 
 🌐 Frontend:
 
-- JavaScript
+- TypeScript
 - React
 - HTML
 - SCSS
