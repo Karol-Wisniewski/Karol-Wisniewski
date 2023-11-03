@@ -38,4 +38,4 @@ DBs:
 ### 📫 How to reach me
 
 - E-mail: karol-wisniewski2001@wp.pl
-- Facebook: https://www.facebook.com/karolVVis
+- LinkedIn: www.linkedin.com/in/karol-wisniewski-722588267
