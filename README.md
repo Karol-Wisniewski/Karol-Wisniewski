@@ -10,6 +10,7 @@
 
 - TypeScript
 - React
+- Angular
 - HTML
 - SCSS
 
@@ -18,7 +19,7 @@
 APIs:
   - Express
   - Flask
-  - SpringBoot
+  - Spring
     
 DBs:
   - MongoDB
