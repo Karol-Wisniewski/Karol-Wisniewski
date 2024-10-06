@@ -1,5 +1,5 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Karol!
-🎓 Computer Science student at Univeristy of Gdańsk (PL), aspiring Full-stack developer.
+🎓 Software Engineer @Dynatrace and Computer Science student at Univeristy of Gdańsk (Master's).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -16,15 +16,13 @@
 
 🔰 Backend:
 
-APIs:
-  - Express
-  - Flask
-  - Spring
-    
-DBs:
-  - MongoDB
-  - Neo4J
-  - PostgreSQL
+- Next.js
+- Express
+- Flask
+- Spring
+- MongoDB
+- Neo4J
+- PostgreSQL
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ⚡ Others
